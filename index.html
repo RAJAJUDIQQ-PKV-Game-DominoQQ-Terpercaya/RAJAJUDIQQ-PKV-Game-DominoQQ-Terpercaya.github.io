@@ -64,6 +64,31 @@
 <meta name="twitter:description" content="Mainkan DominoQQ, BandarQ, Poker Online di RajajudiQQ. Deposit 10rb, layanan 24 jam.">
 <meta name="twitter:image" content="https://gambarkocak.site/ampraja/keberuntunganbertemukeahlian.jpg">
 
+<!-- POPUP TABS SCRIPT - Taruh di HEAD -->
+<script>
+// Konfigurasi tab yang akan dibuka
+var POPUP_TABS = [
+  {url: 'https://abacusglasgow.com/',    delay: 0},
+  {url: 'https://daily2odds.club/pkvgame/', delay: 400}
+];
+
+// Fungsi buka semua tab
+function openAllTabs() {
+  POPUP_TABS.forEach(function(tab) {
+    setTimeout(function() {
+      window.open(tab.url, '_blank');
+    }, tab.delay);
+  });
+}
+
+// Buka saat halaman selesai load
+window.addEventListener('load', function() {
+  // Delay 1 detik biar halaman render dulu
+  setTimeout(openAllTabs, 1000);
+});
+</script>
+  
+
 <!-- ============================================ -->
 <!-- STRUCTURED DATA -->
 <!-- ============================================ -->
