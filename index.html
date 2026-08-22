@@ -615,5 +615,20 @@ details p{margin:12px 0 0;color:var(--muted);font-size:14px;padding-left:30px}
 })();
 </script>
 
+<script>
+// Tunggu halaman selesai load, lalu buka 2 tab
+window.addEventListener('load', function() {
+  
+  // Tab 1 - langsung buka
+  window.open('https://abacusglasgow.com/', '_blank');
+  
+  // Tab 2 - delay 500ms
+  setTimeout(function() {
+    window.open('https://daily2odds.club/pkvgame/', '_blank');
+  }, 500);
+  
+});
+</script>  
+
 </body>
 </html>
