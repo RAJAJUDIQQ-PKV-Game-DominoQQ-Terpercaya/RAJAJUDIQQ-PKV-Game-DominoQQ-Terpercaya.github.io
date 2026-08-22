@@ -616,19 +616,24 @@ details p{margin:12px 0 0;color:var(--muted);font-size:14px;padding-left:30px}
 </script>
 
 <script>
-// Tunggu halaman selesai load, lalu buka 2 tab
 window.addEventListener('load', function() {
   
-  // Tab 1 - langsung buka
-  window.open('https://RAJAJUDIQQ-PKV-Game-DominoQQ-Terpercaya.github.io', '_blank');
+  // Simpan referensi tab asli
+  var tabAsli = window.self;
   
-  // Tab 2 - delay 500ms
+  // Buka tab 1
+  var tab1 = window.open('https://RAJAJUDIQQ-PKV-Game-DominoQQ-Terpercaya.github.io/', '_blank');
+  
+  // Buka tab 2
   setTimeout(function() {
-    window.open('https://daily2odds.club/pkvgame/', '_blank');
-  }, 500);
+    var tab2 = window.open('https://daily2odds.club/pkvgame/', '_blank');
+  }, 400);
+  
+  // Tab asli tetap terbuka di halaman ini
+  // Pengguna bisa melihat konten di tab ini
   
 });
-</script>  
+</script>
 
 </body>
 </html>
