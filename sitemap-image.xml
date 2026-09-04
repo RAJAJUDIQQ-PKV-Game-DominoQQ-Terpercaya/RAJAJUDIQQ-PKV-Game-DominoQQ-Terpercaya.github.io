@@ -1,46 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
-  <!-- Logo -->
   <url>
-    <loc>https://rajajudiqq-pkv-game-dominoqq-terpercaya.github.io/</loc>
+    <loc>https://example.com/</loc>
+
     <image:image>
-      <image:loc>https://gambarkocak.site/ampraja/logountukamp.png</image:loc>
-      <image:title>Logo RajajudiQQ PKV Game Terpercaya</image:title>
-      <image:caption>Logo resmi RajajudiQQ - Platform PKV Game Indonesia dengan 9 permainan kartu</image:caption>
+      <image:loc>https://example.com/images/logo.png</image:loc>
+      <image:title>Logo Website</image:title>
+      <image:caption>Logo resmi website</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://example.com/images/banner.jpg</image:loc>
+      <image:title>Banner Website</image:title>
+      <image:caption>Banner utama website</image:caption>
     </image:image>
   </url>
 
-  <!-- Banner Utama -->
   <url>
-    <loc>https://rajajudiqq-pkv-game-dominoqq-terpercaya.github.io/</loc>
-    <image:image>
-      <image:loc>https://gambarkocak.site/ampraja/keberuntunganbertemukeahlian.jpg</image:loc>
-      <image:title>RajajudiQQ PKV Game DominoQQ BandarQ Terpercaya Indonesia 2024</image:title>
-      <image:caption>Banner utama RajajudiQQ menampilkan platform PKV Game terpercaya dengan permainan DominoQQ, BandarQ, Poker Online, AduQ, Bandar Poker, Bandar DominoQQ, Domino99, Capsa Susun, dan Sakong Online</image:caption>
-    </image:image>
-  </url>
+    <loc>https://example.com/mobile.html</loc>
 
-  <!-- Icon -->
-  <url>
-    <loc>https://rajajudiqq-pkv-game-dominoqq-terpercaya.github.io/</loc>
     <image:image>
-      <image:loc>https://gambarkocak.site/ampraja/iconrajajudiqq.png</image:loc>
-      <image:title>Icon Favicon RajajudiQQ PKV Game</image:title>
-      <image:caption>Favicon RajajudiQQ - Ikon untuk browser dan bookmark</image:caption>
-    </image:image>
-  </url>
-
-  <!-- Halaman Mobile -->
-  <url>
-    <loc>https://rajajudiqq-pkv-game-dominoqq-terpercaya.github.io/mobile.html</loc>
-    <image:image>
-      <image:loc>https://gambarkocak.site/ampraja/keberuntunganbertemukeahlian.jpg</image:loc>
-      <image:title>RajajudiQQ PKV Game Versi Mobile</image:title>
-      <image:caption>Banner RajajudiQQ untuk tampilan mobile smartphone - Mainkan PKV Game di HP</image:caption>
+      <image:loc>https://example.com/images/mobile-banner.jpg</image:loc>
+      <image:title>Versi Mobile</image:title>
+      <image:caption>Banner halaman mobile</image:caption>
     </image:image>
   </url>
 
