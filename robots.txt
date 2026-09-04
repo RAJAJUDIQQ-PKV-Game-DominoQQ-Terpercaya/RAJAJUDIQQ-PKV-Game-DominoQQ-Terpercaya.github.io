@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://rajajudiqq-pkv-game-dominoqq-terpercaya.github.io/sitemap.xml
